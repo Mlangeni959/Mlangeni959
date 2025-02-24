@@ -9,7 +9,7 @@ int main() {
             cin>>temperature_reading_1;
             cout<<"Enter temperature reading 2"<<endl;
             cin>>temperature_reading_2;
-// Calcul
+
             
 
 return 0;
